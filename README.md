@@ -7,7 +7,7 @@
 
 ## 🔴FUNCIONAMENTO DEMONSTRADO!
 
-<p>Aqui a primeira interação com a aplicação logo após ser aberta!</p>
+<p>Aqui a primeira interação com a aplicação logo após ser iniciada!</p>
 <img src="./assets/princ.gif"/>
 <p>Mostro uma mudança de cidade por pesquisa, e também me utilizo do submit com Enter!</p>
 <img src="./assets/floripa.gif"/>
