@@ -1,4 +1,4 @@
-# CLIMA DAS CIDADES
+# CLIMA DAS CIDADES🌤
 <p>Escolha uma cidade de sua preferência e descubra como está indo o clima na mesma</p>
 
 ## 🔴DESCRIÇÃO
